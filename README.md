@@ -7,4 +7,3 @@ This is a basic C++ project that simulates a simple voting machine. The program 
 - Add candidates to the voting machine.
 - Vote for a specific candidate.
 - Display the current voting results.
-first commit
